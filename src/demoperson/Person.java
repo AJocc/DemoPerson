@@ -43,8 +43,6 @@ public class Person {
             this.age = MAX_AGE;
         else
             this.age = age;
-        
-        age = 12 / 0;
     }
    
 }
